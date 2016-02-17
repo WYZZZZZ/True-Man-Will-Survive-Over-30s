@@ -1,2 +1,2 @@
-# True-Man-Will-Survive-Over-30s
+# True-Man-Will-Survive-Over-30s/pygame
 There are 30 evil yellow squares (which will become red later) generated in random positions, they will keep shaking around +-15 units. You will control the green square with up, down, right, and left arrow keys, avoiding collisions with those evil yellow sqaures The game info and seconds count will be shown in python shell Fisrt five seconds, the shell will prompts to let you positions your self, which means you are invulnerable for the first five seconds, go find a relatively safer position After the first five seconds, the counters starts, yellow squares will become red squares, control your green square and survive as long as possible!
