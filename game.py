@@ -1,5 +1,3 @@
-© 2016 Yezhen Wang ALL RIGHTS RESERVED
-
 import pygame
 import random
 import time
